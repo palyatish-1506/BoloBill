@@ -162,7 +162,7 @@ Waiter Tablet   →  Next.js Dashboard
 
 ## 👨‍💻 Built By
 
-Student Team — Atmiya University Hackathon  
+Student Team — SyntaxError
 Rajkot, Gujarat, India
 
 ---
