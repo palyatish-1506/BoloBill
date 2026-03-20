@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-**Deployed on Netlify:** `https://your-site.netlify.app`  
+**Deployed on Netlify:** `https://bolobill-rushreliefer.netlify.app`  
 Scan any table QR → Customer self-order menu opens automatically
 
 ---
